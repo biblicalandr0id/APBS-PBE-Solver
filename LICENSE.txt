@@ -1,0 +1,15 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (C) 2025  BiblicalAndr0id
+
+All rights reserved.
+
+This software and any accompanying documentation (the "Software") are owned by BiblicalAndr0id and are protected by applicable intellectual property laws and international copyright treaties.
+
+You are granted a limited, non-transferable, non-exclusive license to use this Software solely for your internal business purposes. You may not modify, reproduce, distribute, or disclose any portion of the Software without prior written permission from BiblicalAndr0id. Reverse engineering, decompilation, or disassembly of the Software is strictly prohibited, except to the extent expressly permitted under applicable law notwithstanding this restriction.
+
+Unauthorized copying, modification, or distribution of the Software, or any portion thereof, is prohibited and may result in severe civil and criminal penalties.
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Any rights not expressly granted herein are reserved by BiblicalAndr0id.
